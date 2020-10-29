@@ -135,6 +135,10 @@ function cheLaserCollision(laser, alien) {
 
 }
 
+function playGame() {
+    
+}
+
 window.addEventListener('keydown', flyShip)
 createAliens()
 
